@@ -19,4 +19,4 @@ public:
         }
         return freqSet.size() == freqMap.size();
     }
-};
+};//
