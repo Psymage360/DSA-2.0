@@ -1,4 +1,4 @@
-//unique number of occurences
+//unique number of occurrences
 #include<bits/stdc++.h>
 using namespace std;
 int main()
