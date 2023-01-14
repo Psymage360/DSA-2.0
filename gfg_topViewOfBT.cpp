@@ -1,9 +1,9 @@
-//GFG:Bottom View Of A Binary Tree.
-//Function to return a list containing the bottom view of the given tree.
+//GFG:Top View Of A Binary Tree.
+//Function to return a list containing the top view of the given tree.
 
 class Solution {
   public:
-    vector <int> bottomView(Node *root) {
+    vector <int> topView(Node *root) {
         // Your Code Here
         vector<int> ans;
         map<int,int> mp;
@@ -15,6 +15,7 @@ class Solution {
             q.pop();
             Node* node=it.first;
             int line=it.second;
+            if(mp.find(line)==mp.end())
             mp[line]=node->data;
             if(node->left!=NULL)
             q.push({node->left,line-1});
