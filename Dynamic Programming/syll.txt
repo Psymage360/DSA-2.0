@@ -1,0 +1,15 @@
+private cloud 
+public cloud
+community cloud
+managed cloud
+virtual private cloud
+Cloud service models:
+Saas, Paas, Iaas.
+Comparison Of Cloud Service models
+their archietecture and working
+Advantages and Disadvantages of service models over traditional softwares and hardwares
+cloud economics 
+service level agreements
+Role and management of SLAs
+Types of SLAs
+SLA Lifecycle

@@ -1,0 +1,17 @@
+All important data structures
+arrays
+vectors
+linked lists
+stacks
+queues
+binary trees
+binary search trees
+heaps
+graphs
+hashtables
+tries
+
+ADVANCE DATA STRUCTURES
+segment trees
+fenwick trees
+AVL trees  
